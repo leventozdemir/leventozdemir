@@ -19,7 +19,7 @@
 <a href="https://leventozdemir.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
 
-## Languages and Tools:
+## 🛠My Tools:
 <p float="left">
 <img src="https://img.icons8.com/color/144/000000/python--v2.png" width="55" hight="55">
 <img src="https://img.icons8.com/nolan/128/sql.png" width="65" hight="65"   style="margin-left: 10"/>
