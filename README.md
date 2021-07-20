@@ -26,11 +26,11 @@
 <img src="https://www.bconcepts.pt/wp-content/uploads/2019/04/PowerBI-Logo.png" width="60" hight="75" style="margin-left: 10">
 <img src="https://img.icons8.com/nolan/128/sql.png" width="55" hight="65"   style="margin-left: 10"/>
 <img src="https://cdn.icon-icons.com/icons2/2407/PNG/512/aws_icon_146074.png" width="55" hight="75" style="margin-left: 10">
-<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_spark_logo_icon_170561.png" width="125" hight="75" style="margin-left: 10">
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="125" hight="125" style="margin-left: -10">
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="125" hight="75" style="margin-left: 10">
+<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_spark_logo_icon_170561.png" width="115" hight="75" style="margin-left: 10">
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="115" hight="125" style="margin-left: 10">
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="115" hight="75" style="margin-left: 10">
 <img src="https://miro.medium.com/max/805/1*aUSZsGFCMPNYCkQygs4aGQ.jpeg" width="120" hight="75" style="margin-left: 10">
-<img src="https://pbs.twimg.com/profile_images/1105548722/scikit-learn-logo_400x400.png" width="85" hight="55" style="padding-left: 20">
+<img src="https://pbs.twimg.com/profile_images/1105548722/scikit-learn-logo_400x400.png" width="85" hight="55" style="padding-left: 10">
 
 </p>
 
