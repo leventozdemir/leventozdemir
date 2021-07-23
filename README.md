@@ -22,7 +22,7 @@
 ## 🛠My Tools:
 <p float="left">
 <img src="https://img.icons8.com/color/144/000000/python--v2.png" width="55" hight="75">
-<img src="https://www.lintao-dashboards.com/wp-content/uploads/2015/10/tableau.png" width="100" hight="75" style="margin-left: 10">
+<img src="https://cdn.uconnectlabs.com/wp-content/uploads/sites/25/2020/10/aws_logo_smile_1200x630-768x403.png" width="100" hight="75" style="margin-left: -10">
 <img src="https://www.bconcepts.pt/wp-content/uploads/2019/04/PowerBI-Logo.png" width="60" hight="75" style="margin-left: 10">
 <img src="https://img.icons8.com/nolan/128/sql.png" width="55" hight="65"   style="margin-left: 10"/>
 <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_spark_logo_icon_170561.png" width="115" hight="75" style="margin-left: 10">
