@@ -11,6 +11,7 @@
 - 💬 Ask me about Data...
 - ⚡ Real fact: None of us is as smart as all of us.
 - 🎯 Hobbies: ↠ Guitter ↠ Swimming ↠ Billiards ↠ Travelling
+- 💬 Languages: ▻ Turkish ▻ English ▻ Arabic
 ### Talk with me, I am kinda awesome:
 <p float="left">
 <a href="mailto:leventoz997@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
