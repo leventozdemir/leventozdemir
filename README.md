@@ -6,7 +6,7 @@
 ### I am a Machine Learning Engineer | Data Analyst | Data Scientist | Kaggler!!
 - ♊️ Age: 24
 - 👨‍🎓 Education: Bachelor’s degree in Math & Computer science
-- 👨‍💻 I’m currently Junior Business/Data Analyst Trainee at Brainnest
+- 👨‍💻 I’m currently Data Analst
 - 📚 I’m currently learning AWS
 - 💬 Ask me about Data...
 - ⚡ Real fact: None of us is as smart as all of us.
