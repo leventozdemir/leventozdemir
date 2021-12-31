@@ -3,10 +3,10 @@
 
 <img src=https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif width="400" height="400" align="right">
 
-### I am a Machine Learning Engineer | Data Analyst | Data Scientist | Kaggler!!
+### I am a Machine Learning Engineer | Data Scientist | Kaggler!!
 - ♊️ Age: 24
 - 👨‍🎓 Education: Bachelor’s degree in Math & Computer science
-- 👨‍💻 I’m currently Data Scientist & PSQL Developer at TERRA SOFTWARE INFORMATICS
+- 👨‍💻 I’m currently Data Scientist & Artificial Intelligence Engineer at TERRA SOFTWARE INFORMATICS
 - 📚 I’m currently learning AWS
 - 💬 Ask me about Data...
 - ⚡ Real fact: None of us is as smart as all of us.
