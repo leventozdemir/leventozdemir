@@ -33,3 +33,5 @@
 
 ### The goal is to turn data into information, and information into insight. 
 
+
+<a href="https://stackoverflow.com/users/10757176/levent-%c3%96zdemir"><img src="https://stackoverflow.com/users/flair/10757176.png" width="208" height="58" alt="profile for Levent &#214;zdemir at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Levent &#214;zdemir at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
