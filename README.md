@@ -17,6 +17,7 @@
 <a href="https://www.kaggle.com/leventoz"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=gray" /></a>
 <a href="https://leventozdemir.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
+<a href="https://stackexchange.com/users/14897268"><img src="https://stackexchange.com/users/flair/14897268.png" width="208" height="58" alt="profile for Levent &#214;zdemir on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Levent &#214;zdemir on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
 ## 🛠My Tools:
 <p float="left">
@@ -33,5 +34,3 @@
 
 ### The goal is to turn data into information, and information into insight. 
 
-
-<a href="https://stackoverflow.com/users/10757176/levent-%c3%96zdemir"><img src="https://stackoverflow.com/users/flair/10757176.png" width="208" height="58" alt="profile for Levent &#214;zdemir at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Levent &#214;zdemir at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
