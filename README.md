@@ -1,7 +1,7 @@
 ## Hello World, I'm Levent 👋
 
 
-<img src=https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif width="400" height="400" align="right">
+<img src=https://media3.giphy.com/media/QBvHYx6taXPwCHqTRR/giphy.gif width="400" height="400" align="right">
 
 ## I am a Machine Learning Engineer | Data Analyst | Data Scientist | Kaggler!!
 - ♊️ Age: 24
