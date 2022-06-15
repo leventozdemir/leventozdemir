@@ -3,7 +3,7 @@
 
 
 ## I am a Machine Learning Engineer | Data Analyst | Data Scientist | Kaggler!!
-<img src=https://media1.giphy.com/media/6wa5vuYvetU1Jibm13/giphy.gif width="400" height="400" align="right">
+<img src=https://media1.giphy.com/media/6wa5vuYvetU1Jibm13/giphy.gif width="400" height="350" align="right">
 
 - ♊️ Age: 25
 - 👨‍🎓 Education: Bachelor’s degree in Math & Computer science
