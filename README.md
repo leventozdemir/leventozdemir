@@ -1,12 +1,13 @@
 ## Hello World, I'm Levent 👋
 
 
-<img src=https://media3.giphy.com/media/QBvHYx6taXPwCHqTRR/giphy.gif width="400" height="400" align="right">
 
 ## I am a Machine Learning Engineer | Data Analyst | Data Scientist | Kaggler!!
-- ♊️ Age: 24
+<img src=https://media1.giphy.com/media/6wa5vuYvetU1Jibm13/giphy.gif width="400" height="400" align="right">
+
+- ♊️ Age: 25
 - 👨‍🎓 Education: Bachelor’s degree in Math & Computer science
-- 👨‍💻 I’m currently Data Scientist & Artificial Intelligence Engineer at TERRA SOFTWARE INFORMATICS
+- 👨‍💻 I’m currently a Lead Data Scientist at City Tech Center
 - ⚡ Real fact: None of us is as smart as all of us.
 - 🎯 Hobbies: ↠ Guitter ↠ Swimming ↠ Billiards ↠ Travelling
 - 💬 Languages: ▻ English ▻ Turkish ▻ Arabic
