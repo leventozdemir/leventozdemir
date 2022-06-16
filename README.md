@@ -1,9 +1,8 @@
 ## Hello World, I'm Levent 👋
 
 
-
 ## I am a Machine Learning Engineer | Data Analyst | Data Scientist | Kaggler!!
-<img src=https://media1.giphy.com/media/6wa5vuYvetU1Jibm13/giphy.gif width="400" height="350" align="right">
+<img src=https://media4.giphy.com/media/zoKdmndB8QBR2c0gjy/giphy.gif width="400" height="350" align="right">
 
 - ♊️ Age: 25
 - 👨‍🎓 Education: Bachelor’s degree in Math & Computer science
@@ -14,11 +13,11 @@
 ### Talk with me, I am kinda awesome:
 <p float="left">
 <a href="mailto:leventoz997@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/levent-ozdemir/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.kaggle.com/leventoz"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=gray" /></a>
+<a href="https://www.linkedin.com/in/levent-ozdemir/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=yellow" /></a>
+<a href="https://www.kaggle.com/leventoz"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" /></a>
 <a href="https://leventozdemir.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
-<a href="https://stackoverflow.com/users/10757176/levent-%c3%96zdemir"><img src="https://stackoverflow.com/users/flair/10757176.png?theme=light" width="208" height="58" alt="profile for Levent &#214;zdemir at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Levent &#214;zdemir at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+<a href="https://stackoverflow.com/users/10757176/levent-%c3%96zdemir"><img src="https://stackoverflow.com/users/flair/10757176.png?theme=dark" width="208" height="58" alt="profile for Levent &#214;zdemir at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Levent &#214;zdemir at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 ## 🛠My Tools:
 <p float="left">
