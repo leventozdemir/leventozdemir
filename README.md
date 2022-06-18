@@ -19,6 +19,6 @@
 </p>
 <a href="https://stackoverflow.com/users/10757176/levent-%c3%96zdemir"><img src="https://stackoverflow.com/users/flair/10757176.png?theme=dark" width="208" height="58" alt="profile for Levent &#214;zdemir at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Levent &#214;zdemir at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
-```
-- “Data are just summaries of thousands of stories.”
-```
+`
+ “Data are just summaries of thousands of stories.”
+`
