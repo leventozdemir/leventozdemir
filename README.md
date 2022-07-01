@@ -87,6 +87,6 @@
 
 [<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/leventozdemir?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&label=Total%20user%20stars%20in%20all%20repo&logoColor=red&style=social">](https://github.com/leventozdemir?tab=repositories&q=&type=&language=&sort=stargazers)
 [<img alt="GitHub followers" src="https://img.shields.io/github/followers/leventozdemir?&logoColor=red&style=social">](https://github.com/leventozdemir?tab=followers)
-[<img alt="GitHub forks" src="https://img.shields.io/github/forks/leventozdemir/TranslatorSelenium?logoColor=red&style=social">](https://github.com/leventozdemir/TranslatorSelenium/network/members)
+[<img alt="GitHub forks" src="https://img.shields.io/github/forks/leventozdemir/Machine-Learning?logoColor=red&style=social">](https://github.com/leventozdemir/Machine-Learning)
 
 ------
