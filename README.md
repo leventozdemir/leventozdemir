@@ -1,14 +1,11 @@
 <div align=center>
         <img align="center" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
     </div>
- 
-
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=25&color=58D68D&lines=Hello+World+I'm+Levent&center=true&width=600&height=80"&size=100></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=25&color=58D68D&lines=Hello+World+I'm+Levent&center=true&width=600&height=35"&size=100></a>
 </p>
-
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=25&color=58D68D&lines=Data+Scientist|Statistician|Kaggler&center=true&width=600&height=80"&size=100></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=25&color=58D68D&lines=Data+Scientist|Statistician|Kaggler&center=true&width=600&height=30"&size=100></a>
 </p>
 
 <div align=center>
