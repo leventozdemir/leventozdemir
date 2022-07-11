@@ -49,7 +49,7 @@
 
 <br/>
 <p align="left">
-  <a href="https://abhigyantrips.dev/">
+  <a href="https://github.com/leventozdemir">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=leventozdemir&show_icons=true&theme=vue&hide_border=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=leventozdemir&theme=vue&hide_border=true" />
     
