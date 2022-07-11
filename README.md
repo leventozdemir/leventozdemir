@@ -10,7 +10,7 @@
 
 <div align=center>
         <a href="https://www.linkedin.com/in/levent-ozdemir/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
-        <a href="https://stats.stackexchange.com/users/362689/levent-%c3%96zdemir?tab=profile"><img src="https://img.shields.io/badge/Cross Validated-ffffff?style=flat&logo=stackexchange&logoColor=white" alt="Stack Exchange" /></a>
+        <a href="https://stats.stackexchange.com/users/362689/levent-%c3%96zdemir?tab=profile"><img src="https://img.shields.io/badge/Cross Validated-00b56a?style=flat&logo=stackexchange&logoColor=white" alt="Stack Exchange" /></a>
         <a href="https://leventozdemir.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?&logo=medium&logoColor=white" /></a>
         <a href="https://www.kaggle.com/leventoz"><img src="https://img.shields.io/badge/Kaggle-20BEFF?&logo=Kaggle&logoColor=white" /></a>
         <a href="mailto:leventoz997@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?&logo=gmail&logoColor=white" /></a>
