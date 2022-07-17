@@ -1,20 +1,31 @@
 <div align=center>
         <img align="center" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
     </div>
+    <br>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=25&color=58D68D&lines=Hello+World+I'm+Levent&center=true&width=600&height=35"&size=100></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=25&color=58D68D&lines=Hello+World+I'm+Levent&center=true&width=600&height=36"&size=100></a>
 </p>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=25&color=58D68D&lines=Data+Scientist|Statistician|Kaggler&center=true&width=600&height=30"&size=100></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=25&color=58D68D&lines=Data+Scientist|Statistician|Kaggler&center=true&width=600&height=35"&size=100></a>
 </p>
 
 <div align=center>
         <a href="https://www.linkedin.com/in/levent-ozdemir/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
-        <a href="https://stats.stackexchange.com/users/362689/levent-%c3%96zdemir?tab=profile"><img src="https://img.shields.io/badge/Cross Validated-00b56a?style=flat&logo=stackexchange&logoColor=white" alt="Stack Exchange" /></a>
+        <a href="https://stackoverflow.com/users/10757176/levent-%c3%96zdemir?tab=profile"><img src="https://img.shields.io/badge/Stackoverflow-8C5520?style=flat&logo=stackoverflow&logoColor=D57011" alt="Stack Exchange" /></a>
         <a href="https://leventozdemir.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?&logo=medium&logoColor=white" /></a>
         <a href="mailto:leventoz997@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?&logo=gmail&logoColor=white" /></a>
         <a href="https://www.kaggle.com/leventoz"><img src="https://img.shields.io/badge/Kaggle-00b56a?&logo=Kaggle&logoColor=white" /></a>
         <a href="https://t.me/leventoz997"><img src="https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram" alt="Telegram" /></a>
+
+</p>
+</div>
+
+<div align=center>
+        <a href="https://dba.stackexchange.com/users/255719/levent-%c3%96zdemir?tab=profile"><img src="https://img.shields.io/badge/Database Stackexchange-1881B5?style=flat&logo=stackexchange&logoColor=red" alt="Stack Exchange" /></a>
+        <a href="https://stats.stackexchange.com/users/362689/levent-%c3%96zdemir?tab=profile"><img src="https://img.shields.io/badge/Cross Validated Stackexchange-52CC9A?style=flat&logo=stackexchange&logoColor=white" alt="Stack Exchange" /></a>
+        <a href="https://math.stackexchange.com/users/1074947/levent-%c3%96zdemir?tab=profile"><img src="https://img.shields.io/badge/Math Stackexchange-AE0C31?style=flat&logo=stackexchange&logoColor=white" alt="Stack Exchange" /></a>
+        <a href="https://cs.stackexchange.com/users/152268/levent-%c3%96zdemir?tab=profile"><img src="https://img.shields.io/badge/Computer Science Stackexchange-1881B5?style=flat&logo=stackexchange&logoColor=Black" alt="Stack Exchange" /></a>
+
 
 </p>
 </div>
